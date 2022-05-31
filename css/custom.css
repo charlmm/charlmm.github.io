@@ -46,7 +46,7 @@ footer .fp-tableCell
 /* end all section */
 
 /* start all heading */
-h1,h2,h3,h4,h5
+h1,h2,h3,h4,h5,h6
     {
         color: #ffffff;
         font-weight: bold;
@@ -305,7 +305,7 @@ h1,h2,h3,h4,h5
     }
 #portfolio .portfolio-thumb .portfolio-overlay
     {
-        background: #D43F52;
+        background: #45565c;
         top: 0;
         left: 0;
         right: 0;
